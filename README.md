@@ -1,6 +1,6 @@
 # challenge-sentiment-analysis
 
-# Mission objectives
+## Mission objectives
 
 - Be able interact with Twitter's API.
 - Be able create a sentiment analysis model.
@@ -10,7 +10,7 @@
 You just got an internship at Netflix. As a first task, they ask you to analyze people's reaction to their new show "The Queen's Gambit" on Twitter.
 They are only interested in English speaker's reactions.
 
-# Installation
+## Installation
 
 ## Python version
 * Python 3.7
