@@ -26,6 +26,7 @@ They are only interested in English speaker's reactions.
 * nltk
 * unidecode
 * streamlit
+* textblob
 
 # Usage
 | Filename                             | Usage                                                     |
