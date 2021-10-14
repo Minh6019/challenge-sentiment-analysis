@@ -31,8 +31,9 @@ They are only interested in English speaker's reactions.
 # Usage
 | Filename                             | Usage                                                     |
 |--------------------------------------|-----------------------------------------------------------|
-| model_data_as_pixels.ipynb | Jupyer Notebook_v1 file containing Python code.<br>Used to make CNN model.<br> |
-| model_training.ipynb      | Jupyer Notebook_v2 file containing Python code.<br>Used to make CNN model.<br> |
+| tweet.ipynb | Jupyer Notebook file containing Python code.<br>Used to tweet with twitter.<br> |
+| code-sentiment-analysis.ipynb      | Jupyer Notebook file containing Python code.<br>Used to make sentiment model.<br> |
+| sentiment-app.py      | Python file containing Python code.<br>Used to run the app locally.<br> |
 
 
 
@@ -41,7 +42,7 @@ They are only interested in English speaker's reactions.
 
 
 # Future work
-- Make an API that accepts a hashtag in the route `/predict`. 
+- Make an API-Web Server that accepts a hashtag in the route `/predict`. 
 
 
 # Contributors
